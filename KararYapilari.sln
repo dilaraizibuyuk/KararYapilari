@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararYapilari", "KararYapilari\KararYapilari.csproj", "{749DFD68-2684-4B3A-8884-5498DAE31C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElseIf", "ElseIf\ElseIf.csproj", "{4FD4C4F4-C7FA-4CB0-A774-CCF2E5C0FBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{86E40E92-D805-47A9-9CCC-66D2823FAC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749DFD68-2684-4B3A-8884-5498DAE31C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749DFD68-2684-4B3A-8884-5498DAE31C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749DFD68-2684-4B3A-8884-5498DAE31C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749DFD68-2684-4B3A-8884-5498DAE31C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD4C4F4-C7FA-4CB0-A774-CCF2E5C0FBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD4C4F4-C7FA-4CB0-A774-CCF2E5C0FBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD4C4F4-C7FA-4CB0-A774-CCF2E5C0FBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD4C4F4-C7FA-4CB0-A774-CCF2E5C0FBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E40E92-D805-47A9-9CCC-66D2823FAC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E40E92-D805-47A9-9CCC-66D2823FAC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E40E92-D805-47A9-9CCC-66D2823FAC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E40E92-D805-47A9-9CCC-66D2823FAC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE274B7-A940-476F-BCBB-B8AB1A8D0713}
+	EndGlobalSection
+EndGlobal
